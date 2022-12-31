@@ -1,5 +1,5 @@
 # Fortnite Theme Randomizer
-by Sim Sealy
+by Sim
 
 A web-based theme randomizer for Fortnite skins.
 
